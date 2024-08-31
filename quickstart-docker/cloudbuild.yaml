@@ -7,4 +7,4 @@ images:
 - 'us-west2-docker.pkg.dev/peak-ascent-434105-d7/quickstart-docker-repo/quickstart-image:tag1'
 
 options:
-  logging: 'NONE'
+  logging: 'CLOUD_LOGGING_ONLY'
