@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "narendra $(date)."
+echo "narendra 123 $(date)."
